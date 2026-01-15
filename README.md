@@ -1,2 +1,2 @@
 # new
-learning
+learning new thing 
